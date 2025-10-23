@@ -1,0 +1,5 @@
+{
+  "name": "Vehicle Registration Control",
+  "description": "An application to register vehicles with their basic data (license plate, brand, model, client) to maintain an organized record of entries. It prevents duplicate registrations and ensures all fields are complete before saving.",
+  "requestFramePermissions": []
+}
